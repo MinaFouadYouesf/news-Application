@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News Today</string>
+    <string name="toolBar_name">أخبار اليوم </string>
+    <string name="tab_text_1"> أخبار عامة </string>
+    <string name="tab_text_2"> علوم </string>
+    <string name="tab_text_3"> رياضة </string>
+    <string name="tab_text_4"> تكنولوجيا </string>
+    <string name="tab_text_5"> أعمال </string>
+    <string name="tab_text_6"> تسلية </string>
+    <string name="tab_text_7"> صحة </string>
+    <string name="home_scren"> الصفحة الرئيسية </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
